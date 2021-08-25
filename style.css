@@ -1,0 +1,209 @@
+body{
+	background-color:black;
+	margin:0;
+	padding:0;
+}
+div.zero{
+	position:absolute;
+	left:100px;
+	top:100px;
+	width:200px;
+	padding:35px 0px;
+	color:lightblue;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid lightblue;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.zero:hover{
+	box-shadow:0 5px 50px 0 lightblue inset, 0 5px 50px 0 lightblue, 0 5px 50px 0 lightblue inset, 0 5px 50px 0 lightblue;
+}
+div.two{
+	position:absolute;
+	left:400px;
+	top:100px;
+	width:200px;
+	padding:35px 0px;
+	color:steelblue;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid steelblue;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.two:hover{
+	box-shadow:0 5px 50px 0 steelblue inset, 0 5px 50px 0 steelblue, 0 5px 50px 0 steelblue inset, 0 5px 50px 0 steelblue;
+}
+div.three{
+	position:absolute;
+	left:700px;
+	top:100px;
+	width:200px;
+	padding:35px 0px;
+	color:orange;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid orange;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.three:hover{
+	box-shadow:0 5px 50px 0 orange inset, 0 5px 50px 0 orange, 0 5px 50px 0 orange inset, 0 5px 50px 0 orange;
+}
+div.four{
+	position:absolute;
+	left:1000px;
+	top:100px;
+	width:200px;
+	padding:35px 0px;
+	color:lightgreen;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid lightgreen;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.four:hover{
+	box-shadow:0 5px 50px 0 lightgreen inset, 0 5px 50px 0 lightgreen, 0 5px 50px 0 lightgreen inset, 0 5px 50px 0 lightgreen;
+}
+div.five{
+	position:absolute;
+	left:100px;
+	top:300px;
+	width:200px;
+	padding:35px 0px;
+	color:darkgreen;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid darkgreen;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.five:hover{
+	box-shadow:0 5px 50px 0 darkgreen inset, 0 5px 50px 0 darkgreen, 0 5px 50px 0 darkgreen inset, 0 5px 50px 0 darkgreen;
+}
+div.six{
+	position:absolute;
+	left:400px;
+	top:300px;
+	width:200px;
+	padding:35px 0px;
+	color:purple;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid purple;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.six:hover{
+	box-shadow:0 5px 50px 0 purple inset, 0 5px 50px 0 purple, 0 5px 50px 0 purple inset, 0 5px 50px 0 purple;
+}
+div.seven{
+	position:absolute;
+	left:700px;
+	top:300px;
+	width:200px;
+	padding:35px 0px;
+	color:green;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid green;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.seven:hover{
+	box-shadow:0 5px 50px 0 green inset, 0 5px 50px 0 green, 0 5px 50px 0 green inset, 0 5px 50px 0 green;
+}
+div.one{
+	position:absolute;
+	left:1000px;
+	top:300px;
+	width:200px;
+	padding:35px 0px;
+	color:aqua;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid aqua;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.one:hover{
+	box-shadow:0 5px 50px 0 aqua inset, 0 5px 50px 0 aqua, 0 5px 50px 0 aqua inset, 0 5px 50px 0 aqua;
+}
+div.ten{
+	position:absolute;
+	left:100px;
+	top:500px;
+	width:200px;
+	padding:35px 0px;
+	color:red;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid red;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.ten:hover{
+	box-shadow:0 5px 50px 0 red inset, 0 5px 50px 0 red, 0 5px 50px 0 red inset, 0 5px 50px 0 red;
+}
+div.eleven{
+	position:absolute;
+	left:400px;
+	top:500px;
+	width:200px;
+	padding:35px 0px;
+	color:pink;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid pink;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.eleven:hover{
+	box-shadow:0 5px 50px 0 pink inset, 0 5px 50px 0 pink, 0 5px 50px 0 pink inset, 0 5px 50px 0 pink;
+}
+div.twoelve{
+	position:absolute;
+	left:700px;
+	top:500px;
+	width:200px;
+	padding:35px 0px;
+	color:yellow;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid yellow;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.twoelve:hover{
+	box-shadow:0 5px 50px 0 yellow inset, 0 5px 50px 0 yellow, 0 5px 50px 0 yellow inset, 0 5px 50px 0 yellow;
+}
+div.thirtheen{
+	position:absolute;
+	left:1000px;
+	top:500px;
+	width:200px;
+	padding:35px 0px;
+	color:blue;
+	text-align:center;
+	vertical-align:center;
+	font-size:25px;
+	border:2px solid blue;
+	border-radius:50px;
+	cursor:pointer;
+}
+div.thirtheen:hover{
+	box-shadow:0 5px 50px 0 blue inset, 0 5px 50px 0 blue, 0 5px 50px 0 blue inset, 0 5px 50px 0 blue;
+}
